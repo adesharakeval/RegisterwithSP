@@ -1,0 +1,12 @@
+C:\Users\Rutvi\Documents\Visual Studio 2013\Projects\RegisterwithSP\RegisterwithSP\bin\RegisterwithSP.dll.config
+C:\Users\Rutvi\Documents\Visual Studio 2013\Projects\RegisterwithSP\RegisterwithSP\bin\RegisterwithSP.dll
+C:\Users\Rutvi\Documents\Visual Studio 2013\Projects\RegisterwithSP\RegisterwithSP\bin\RegisterwithSP.pdb
+C:\Users\Rutvi\Documents\Visual Studio 2013\Projects\RegisterwithSP\RegisterwithSP\obj\Debug\RegisterwithSP.csprojResolveAssemblyReference.cache
+C:\Users\Rutvi\Documents\Visual Studio 2013\Projects\RegisterwithSP\RegisterwithSP\obj\Debug\RegisterwithSP.dll
+C:\Users\Rutvi\Documents\Visual Studio 2013\Projects\RegisterwithSP\RegisterwithSP\obj\Debug\RegisterwithSP.pdb
+C:\Users\Rutvi\Desktop\Day 8\RegisterwithSP\RegisterwithSP\bin\RegisterwithSP.dll.config
+C:\Users\Rutvi\Desktop\Day 8\RegisterwithSP\RegisterwithSP\bin\RegisterwithSP.dll
+C:\Users\Rutvi\Desktop\Day 8\RegisterwithSP\RegisterwithSP\bin\RegisterwithSP.pdb
+C:\Users\Rutvi\Desktop\Day 8\RegisterwithSP\RegisterwithSP\obj\Debug\RegisterwithSP.csprojResolveAssemblyReference.cache
+C:\Users\Rutvi\Desktop\Day 8\RegisterwithSP\RegisterwithSP\obj\Debug\RegisterwithSP.dll
+C:\Users\Rutvi\Desktop\Day 8\RegisterwithSP\RegisterwithSP\obj\Debug\RegisterwithSP.pdb
